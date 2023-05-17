@@ -9,5 +9,5 @@
  - [[Feature](network interface) Support network interface](https://github.com/apache/doris/pull/16617) on [apache/doris](https://github.com/apache/doris)
 
 🍭 my recents projects
-- [Webserver with Reactor Pattern](https://github.com/ZashJie/TinyWebserver)
+- [A lightweight web server based on Linux](https://github.com/ZashJie/TinyWebserver)
 - [A small supermarket management system based on Qt](https://github.com/ZashJie/MarketManagementSystem)
