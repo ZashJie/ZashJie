@@ -7,3 +7,7 @@
  - [[Improvement] add show data types stmt](https://github.com/apache/doris/pull/18111) on [apache/doris](https://github.com/apache/doris)
  - [[Improvement] enhance show data types stmt](https://github.com/apache/doris/pull/18831) on [apache/doris](https://github.com/apache/doris)
  - [[Feature](network interface) Support network interface](https://github.com/apache/doris/pull/16617) on [apache/doris](https://github.com/apache/doris)
+
+🍭 my recents projects
+- [Webserver with Reactor Pattern](https://github.com/ZashJie/TinyWebserver)
+- [A small supermarket management system based on Qt](https://github.com/ZashJie/MarketManagementSystem)
